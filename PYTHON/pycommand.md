@@ -28,4 +28,10 @@ GO BACK TO THE TERMINAL YOU ARE WORKING ON and type within the Folder you want t
 `git init`, hit enter.
 
 
+#---- ----‐-------------------------------------------- ----------------‐ ---------------------- -------------
+                    PYTHON NOTES
+#----- ‐----------------- ------------------------------ ------------------------------------ -----------------
+`float() vs int()`
 
+Using `float()` allows the user to enter decimals (like 5.5).
+On the other hand, using `int()` only allows you to enter whole numbers (10, 4, 3, 25...) 
